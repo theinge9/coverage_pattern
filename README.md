@@ -14,5 +14,5 @@ And for all points of area to be covered, the coverage checking(grid waypoints)r
 Service Server with these pattern movements which is called by PublishPoint Tool of Rviz or predefined area points.
 ![5](https://github.com/theinge9/coverage_pattern/assets/138423325/dc414461-077b-4dff-b182-7d3aebc6252c)
 
-!!!Adjustment of global and local planner parameters is needed for better path planning results.
 Currently, algorithms for Grid Map Occupied Cells Connection and Go and Stop Behaviour Control are being studied.
+!!!Adjustment of global and local planner parameters is needed for better path planning results.
