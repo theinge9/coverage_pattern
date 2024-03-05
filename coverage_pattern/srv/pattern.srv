@@ -1,0 +1,6 @@
+## Pattern.srv
+# Request
+geometry_msgs/PointStamped[] points 
+---
+# Response
+string result
